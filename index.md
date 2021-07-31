@@ -35,3 +35,22 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<html>
+  <title>
+    First website
+  </title>
+  
+  <body>
+    <h1>This is my first github page</h1>
+  </body>
+  
+  <style>
+    body {
+      background-color:green;
+      color:#fff;
+      text-align:center;
+    }
+  </style>
+  
+</html>
