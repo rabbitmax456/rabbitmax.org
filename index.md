@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/rabbitmax456/rabbitmax.org
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### the Elite galaxy a upcoming spiritural successor to the advanced rocketry and many mods including the Aether II and few others, 
+### the Elite galaxy a upcoming spiritural successor to the advanced rocketry and many mods including the Aether II, and few others including technology, science, orbital planet, combat and many others
 
 
 
