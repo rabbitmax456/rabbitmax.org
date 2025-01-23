@@ -1,2 +1,2 @@
 # rabbitmax.org
-this is a webiste about all rabbitmax games
+the site for my work of Elite galaxy mod and games set in  Max chronicles universe
